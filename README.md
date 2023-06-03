@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/edward0rtiz/AirBnB_clone/blob/master/hbton.png" alt="Hbton logo">
+  <img src="" alt="Hbton logo">
 </p>
 
 <p align="left"> AirBnB clone project</p>
@@ -244,5 +244,4 @@ $ python3 unittest -m tests/test_console.py
 ```
 
 ## Authors:
-**Edward Ortiz** <[edward0rtiz](https://github.com/edward0rtiz)>
-**Juan David Marin** <[Teslothorcha](https://github.com/Teslothorcha)>
+**Mark Allen Gbalazeh** <[Markcino](https://github.com/Markcino)>
