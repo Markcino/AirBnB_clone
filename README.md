@@ -1,0 +1,9 @@
+The given text describes an AirBnB clone project called HolbertonBnB. It is a web application that integrates both back-end and front-end APIs, along with SQL storage. This project focuses on creating and deploying the back-end console as part 1 of 4. It is an educational clone project based on the original AirBnB website.
+
+The project utilizes several classes, including BaseModel, FileStorage, User, Amenity, City, Place, Review, and State. These classes have various public instance attributes, methods, and class attributes. The project's classes are stored in the FileStorage class file, and the console initializes a FileStorage instance named storage. The storage object is responsible for loading, reloading, and tracking changes to class instances stored in the JSON file file.json.
+
+The console serves as a command-line interface (CLI) for interacting with the project's data as a backend tool. It can be used to manage the predefined classes through the storage object. The console can be run in both non-interactive and interactive modes. In non-interactive mode, commands can be piped into the console, while in interactive mode, the console displays a prompt for input. The console supports commands such as create, show, destroy, all, count, and update. These commands allow users to create new instances, display instance information, delete instances, retrieve instance counts, and update instance attributes.
+
+The text also provides instructions on how to use the console in both non-interactive and interactive modes. Additionally, it explains how to run tests for the HolbertonBnB project using the provided unittests.
+
+The author of the project is Mark Allen Gbalazeh (Markcino).
