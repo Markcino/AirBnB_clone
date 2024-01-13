@@ -21,3 +21,7 @@ The ALX project encapsulates the execution of my four-month educational journey 
 <h4>Grasping the concept of UUID (Universally Unique Identifier)<h4>
 <h4>Utilizing *args and **kwargs in Python<h4>
 <h4>Handling named arguments in functions.<h4>
+
+|   **File**   |   **Description**   |
+| -------------- | --------------------- |
+|[AUTHORS](./AUTHORS) | Contains info about authors of the project |
